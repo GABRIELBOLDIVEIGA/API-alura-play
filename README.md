@@ -20,7 +20,7 @@
 
 ## Comandos terminal
 * json-server --watch db.json
-<p>indica qual data base buscar</p>
+<p align="center">indica qual data base buscar</p>
 
 * npx json-server --watch db.json
-<p>inicia o servidor</p>
+<p align="center">inicia o servidor</p>
