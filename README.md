@@ -17,3 +17,10 @@
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+
+## Comandos terminal
+* json-server --watch db.json
+<p>indica qual data base buscar</p>
+
+* npx json-server --watch db.json
+<p>inicia o servidor</p>
